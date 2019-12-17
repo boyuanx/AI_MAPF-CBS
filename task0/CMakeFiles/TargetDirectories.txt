@@ -1,0 +1,3 @@
+/Users/boyuanxu/Desktop/CSCI360/Project2/task0/CMakeFiles/rebuild_cache.dir
+/Users/boyuanxu/Desktop/CSCI360/Project2/task0/CMakeFiles/edit_cache.dir
+/Users/boyuanxu/Desktop/CSCI360/Project2/task0/CMakeFiles/task0.dir

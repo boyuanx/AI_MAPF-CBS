@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../AStarPlanner.h
+MAPFInstance.h
+../MAPFInstance.h
+ostream
+-
+
+../MAPFInstance.h
+vector
+-
+list
+-
+string
+-
+
+/Users/boyuanxu/Desktop/CSCI360/Project2/task2/task2.cpp
+iostream
+-
+fstream
+-
+MAPFInstance.h
+/Users/boyuanxu/Desktop/CSCI360/Project2/task2/MAPFInstance.h
+AStarPlanner.h
+/Users/boyuanxu/Desktop/CSCI360/Project2/task2/AStarPlanner.h
+tuple
+-
+chrono
+-
+
